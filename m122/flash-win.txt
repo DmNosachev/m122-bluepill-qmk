@@ -1,0 +1,2 @@
+cd F:\keyboards\Arduino_STM32-master\tools\win
+.\maple_upload.bat COM3 2 1EAF:0003 .\chibios_test_stm32_f103_m122_default.bin
